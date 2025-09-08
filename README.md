@@ -40,3 +40,34 @@ Flipper Zero Momentum: https://momentum-fw.dev/
 Flipper Lab: https://lab.flipper.net/?url=https://unleashedflip.com/fw/unlshd-081/flipper-z-f7-update-unlshd-081.tgz&channel=release-cfw&version=unlshd-081
 
 https://youtu.be/yfwpdVg9urE
+
+This video is for those, who have a Flipper Zero hacker gadget.
+Here are two, main staple and stable websites to visit and
+download the latest Q-Flipper Zero firmware, along with Flipper
+Zero Momentum firmware. Also visit the Flipper Lab website
+for some really cool Flipper Zero apps. There are many to
+choose from. But for starters, let's go to the official Flipper Zero
+website and download and install Q-Flipper for the Flipper Zero
+hacker gadget. You can click the website links in this video's
+description to directly go to these Flipper Zero websites. Please
+thoroughly take the time to browse these Flipper Zero websites,
+so you can fully understand how to operate your Flipper Zero
+hacker gadget like a Boss. Also, there are plenty of Flipper Zero
+videos on how to operate the Flipper Zero hacker gadget device
+right at your fingertips. After you download and install Q-Flipper
+on your computer, you can then download and install Flipper
+Zero Momentum firmware for the Flipper Zero. Please note:
+you must download and install Q-Flipper first, and then download
+and install Flipper Zero Momentum firmware. After that, you
+can visit and download all kinds of Flipper Zero apps on Flipper
+Lab. All three websites are clean and stable. I sternly recommend
+them for the Flipper Zero. Next. Have fun with your Flipper Zero
+hacker gadget device.
+
+Flipper Zero Recommended Websites:
+
+Q-Flipper: https://flipperzero.one/
+Flipper Zero Momentum: https://momentum-fw.dev/
+Flipper Lab: https://lab.flipper.net/?url=https://unleashedflip.com/fw/unlshd-081/flipper-z-f7-update-unlshd-081.tgz&channel=release-cfw&version=unlshd-081
+
+https://youtu.be/12kb4PIIuAo
